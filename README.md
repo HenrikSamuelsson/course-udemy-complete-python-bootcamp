@@ -1,6 +1,8 @@
 # The Udemy course - Complete Python Bootcamp
 
-This repository hold material related to me taking the Udemy course called [Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/).
+This repository hold material related to me taking a Python course at Udemy called:
+
+[Complete Python Bootcamp: Go from zero to hero in Python 3](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Resources
 
